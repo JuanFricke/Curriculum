@@ -55,7 +55,7 @@
  - Creation of an OLAP data cube using DuckDB and Pandas for analysis, replacing the old method that involved manual conversions and Microsoft SQL.
  - Ensuring that the code can be used on multiple operating systems, unlike the official alternative TABWIN, which is Windows-exclusive.
 
-![DuckDB]<img src="https://cdn.simpleicons.org/duckdb/000/fff" alt="Node" align=left width=24>
+###DuckDB <img src="https://cdn.simpleicons.org/duckdb/000/fff" alt="Node" align=left width=24>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
