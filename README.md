@@ -82,7 +82,7 @@
 
 ## Education
 
-### **Bachelor's Degree in Software Engineering**
+### **Bachelor's Degree in Computer Science**
 
 *UNIJUÍ | Regional University of Northwestern Rio Grande do Sul*
 
