@@ -1,4 +1,4 @@
-# Gustavo Henrique Pereira de Campos
+# Juan Paulo Fricke
 
 **DevSecOps Engineer | Computer Science Student At Unijuí** - Ijuí, Rio Grande do Sul, Brazil
 
