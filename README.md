@@ -57,7 +57,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![DuckDB](https://img.shields.io/github/v/release/duckdb/duckdb?style=for-the-badge&logo=duckdb&logoColor=white)
+![DuckDB](https://img.shields.io/badge/duckdb?style=for-the-badge&logo=duckdb&logoColor=white)
 
 ## Education
 
