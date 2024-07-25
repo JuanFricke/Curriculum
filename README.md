@@ -1,16 +1,17 @@
 # Gustavo Henrique Pereira de Campos
 
-**Data Engineer | Software Engineer Student At Unijuí** - Ijuí, Rio Grande do Sul, Brazil
+**DevSecOps Engineer | Computer Science Student At Unijuí** - Ijuí, Rio Grande do Sul, Brazil
 
-> 👋 I started in the world of technology by studying on my own during high school, where I was introduced to basic programming and database knowledge. Since then, I have been passionate about the world of technology as a whole and love to learn more about it every day.
+> 👋 My journey with computers started at 5 years old when my mom bought me my first Windows XP computer. With it, I began tinkering and developed an increasing interest in the world of tech. Later, I started using and creating server plugins and mods for Minecraft, as well as tinkering with Linux and open-source software.
 
 ### **Contact me**
-[📧 Personal Email](mailto:gustavop.campos2004@gmail.com) | 
-[📧 Student Email](mailto:gustavo.campos@sou.unijui.edu.br) |
-[📞 +55 55 99211 - 8180](tel:5555992118180)
+[📧 Personal Email](mailto:juanpfricke@hotmail.com) | juanpfricke@hotmail.com
+[📧 Student Email](mailto:juan.fricke@sou.unijui.edu.br) | juan.fricke@sou.unijui.edu.br
+[📞 +55 55 99133 - 5869](tel:5555991335869)
 
-[🔗 Linkedin](https://www.linkedin.com/in/gustavo-campos-a2573722a/) |
-[👾 Portifolio (Github)](https://github.com/GustavCampos) 
+[🔗 Linkedin](https://www.linkedin.com/in/juan-fricke/) | https://www.linkedin.com/in/juan-fricke/
+[👾 Github](https://github.com/juanFricke/) | https://github.com/juanFricke/ 
+[🌐 Personal Website](https://juanfricke.dev/) | https://juanfricke.dev/
 
 ## Experience
 
@@ -78,4 +79,4 @@
 >Native
 
 >### **English 🇺🇸**
->Independant 
+>Fluent 
