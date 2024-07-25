@@ -59,7 +59,7 @@
 <img src="https://cdn.simpleicons.org/duckdb/000/fff" alt="Node" align=left width=24>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![duckdb](https://camo.githubusercontent.com/556cbcbb5d92a167bc26a6c0996dfd584df1a7ae67a1d0c457bd80af87967e52/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6475636b64622f3030302f666666)
+![<brand>](https://img.shields.io/badge/duckdb-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=yellow)
 
 ## Education
 
