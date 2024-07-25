@@ -57,8 +57,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-<img src="https://cdn.simpleicons.org/duckdb/000/fff" alt="Node" align=left width=24>
 ![DuckDB](https://img.shields.io/badge/duckdb?style=for-the-badge&logo=duckdb&logoColor=white)
+<img src="https://cdn.simpleicons.org/duckdb/000/fff" alt="Node" align=left width=24>
+
 ## Education
 
 ### **Bachelor's Degree in Software Engineering**
