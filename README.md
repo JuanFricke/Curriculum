@@ -20,18 +20,16 @@
 
 ## Experience
 
-### **Data Engineer Intern** | april 2024 - present
+### **DevSecOps Engineer Intern** | april 2024 - present
 *Compass UOL | Compasso UOL (UOL DIVEO)*
 
 🌎 *Remote | Rio Grande do Sul, Brazil*
-- Data Engineering Project Training Program;
-- Creation of data lakes, API consumption, data ingestion, processing, and analysis.
+- I developed hypothetical solutions using AWS cloud and its resources, such as S3 and EC2, in a secure manner, utilizing IAM policies and VPC to create secure multi-user environments. ;
+- Scripting in Bash and Python to create automations and reproducible servers.
 
-![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white) 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-575757?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-![Amazon Web Service](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon Web Service AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### **CNPQ & FAPERGS Scholarship Holder** | april 2023 - march 2024
 *UNIJUÍ | Regional University of Northwestern Rio Grande do Sul*
