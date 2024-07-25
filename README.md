@@ -18,55 +18,38 @@
 
 [🌐 Personal Website](https://juanfricke.dev/) | https://juanfricke.dev/
 
-## Experience
+## Experience - Formal Jobs
 
-### **DevSecOps Engineer Intern** | april 2024 - present
+### **DevSecOps Engineer Intern** | 07/2024 - present
 *Compass UOL | Compasso UOL (UOL DIVEO)*
 
 🌎 *Remote | Rio Grande do Sul, Brazil*
-- I developed hypothetical solutions using AWS cloud and its resources, such as S3 and EC2, in a secure manner, utilizing IAM policies and VPC to create secure multi-user environments. ;
+- I developed solutions using AWS cloud and its resources, such as S3 and EC2, in a secure manner, utilizing IAM policies and VPC to create secure multi-user environments. ;
 - Scripting in Bash and Python to create automations and reproducible servers.
 
 ![Amazon Web Service AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### **CNPQ & FAPERGS Scholarship Holder** | april 2023 - march 2024
-*UNIJUÍ | Regional University of Northwestern Rio Grande do Sul*
-
-🌎 *Ijuí, Rio Grande do Sul, Brazil*
-- Research and application assistant of neural network models for behind-the-meter prediction studies of electrical systems;
-- Assistant responsible for developing desktop interfaces for metallic load sensors.
-
-![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white) 
-![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-### **IT Intern** | november 2022 - february 2023
-*CSTECH | CS Tech Automations and Services Ltd.*
+### **Protest Notary Office of Ijuí** |  11/2022 - 11/2024
+*"Tabelionato de protestos de Ijuí"*
 
 🌎 *Ijuí, Rio Grande do Sul, Brazil*
-- Responsible for maintaining the company's website;
-- Responsible for integrating the company's database with a third-party power plant management system.
+- Development of a queue management systems for exclusive use in the Notary, following law guides and security norms needed. Using WEB technologies with a backend in PHP and frontend using Bulma and NodeJS.
+- system administration and technical support for various windows machines, network and pc repair.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### **IT Assistant** | march 2022 - october 2022
-*3TENTOS | Três Tentos Agroindustrial*
+## Experience - Independent Projects
 
-🌎 *Ijuí, Rio Grande do Sul, Brazil*
-- Responsible for recreating a company application for inventory control;
-- Auxiliary Developer of PIN, a proprietary platform for selling inputs for agribusiness.
+### SusCube 
+*Project developed to facilitate the consumption of data from the Brazilian public health system(SUS) database.*
+[](github.com/JuanFricke/SusCube)
 
-![Mendix](https://img.shields.io/badge/-MENDIX-146ff4?style=for-the-badge) 
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
-![Apache Subversion](https://img.shields.io/badge/-Subversion-7c97c3?style=for-the-badge&logo=subversion&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Education
 
