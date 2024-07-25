@@ -40,13 +40,15 @@
 - system administration and technical support for various windows machines, network and pc repair.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![BulmaCSS](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ## Experience - Independent Projects
 
-### SusCube 
+### SusCube - Database and Python development
 *Project developed to facilitate the consumption of data from the Brazilian public health system(SUS) database.*
 
 🔗 www.github.com/JuanFricke/SusCube
@@ -55,10 +57,28 @@
  - Creation of an OLAP data cube using DuckDB and Pandas for analysis, replacing the old method that involved manual conversions and Microsoft SQL.
  - Ensuring that the code can be used on multiple operating systems, unlike the official alternative TABWIN, which is Windows-exclusive.
 
--
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/duckdb-%23000000.svg?style=for-the-badge&logo=duckdb&logoColor=yellow)
+
+
+### NeuroData - FullStack site development
+*Website developed to inform the population of Ijuí about mental health metrics over the past 10 years. The project includes a backend built with Flask, a frontend using BulmaCSS and JavaScript, and data analysis employing the methods discussed in the previous project.*
+
+🔗 https://neurodata.onrender.com/
+
+ - Backend Development using Flask and Jinja templates
+ - Front end Development using JavaScript, BulmaCSS and Sass.
+ - Deploy using the free tier render services.
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![BulmaCSS](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
 
 ## Education
 
