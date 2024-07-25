@@ -9,6 +9,7 @@
 [📧 Student Email](mailto:juan.fricke@sou.unijui.edu.br) | juan.fricke@sou.unijui.edu.br
 [📞 +55 55 99133 - 5869](tel:5555991335869)
 
+
 [🔗 Linkedin](https://www.linkedin.com/in/juan-fricke/) | https://www.linkedin.com/in/juan-fricke/
 [👾 Github](https://github.com/juanFricke/) | https://github.com/juanFricke/ 
 [🌐 Personal Website](https://juanfricke.dev/) | https://juanfricke.dev/
